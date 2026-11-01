@@ -1,0 +1,23 @@
+[
+  {
+    "id": 1,
+    "name": "Олена Коваль",
+    "email": "olena.koval@example.com",
+    "age": 24,
+    "active": true
+  },
+  {
+    "id": 2,
+    "name": "Андрій Мельник",
+    "email": "andriy.melnyk@example.com",
+    "age": 31,
+    "active": false
+  },
+  {
+    "id": 3,
+    "name": "Марія Шевченко",
+    "email": "maria.shevchenko@example.com",
+    "age": 28,
+    "active": true
+  }
+]
